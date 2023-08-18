@@ -58,7 +58,7 @@ const Contacts = () => {
             </h4>
             <ul className="flex justify-center items-center dark:text-gray-400">
               <li className="">
-                <a href="https://github.com/alldinosaur" target="_blank">
+              <a href="https://github.com/alldinosaur" target="_blank" rel="noreferrer">
                   <svg
                     className="svg-inline--fa fa-github fa-w-16 inline-block mr-2"
                     xmlns="http://www.w3.org/2000/svg"
@@ -72,7 +72,7 @@ const Contacts = () => {
                 </a>
               </li>
               <li className="">
-                <a href="https://linkedin.com/alldinosaur" target="_blank">
+              <a href="https://linkedin.com/alldinosaur" target="_blank" rel="noreferrer">
                   <svg
                     className="svg-inline--fa fa-linkedin fa-w-16 inline-block"
                     xmlns="http://www.w3.org/2000/svg"
@@ -86,7 +86,7 @@ const Contacts = () => {
                 </a>
               </li>
               <li className="">
-                <a href="mailto:aldiakbar373@gmail.com">
+              <a href="mailto:aldiakbar373@gmail.com" target="_blank" rel="noreferrer">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     className="h-8 w-8"
