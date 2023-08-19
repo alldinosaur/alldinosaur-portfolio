@@ -69,10 +69,10 @@ const Projects = () => {
             </div>
             <div className="hover:shadow-lg bg-white dark:bg-gray-800 shadow-xl rounded d-flex overflow-hidden">
               <div className="font-bold text-md py-2 px-4 text-gray-800 dark:text-white">
-                Sistem Informasi Peramalan Penjualan
+                Petrashop
               </div>
               <p className="px-4 py-2 dark:text-white text-sm">
-                A web application that can used to forecast the revenue of the shop. It used <b>single exponential smoothing</b> algorithm to forecast the revenue.
+                A web application that can used to forecast the revenue of the shop. It used single exponential smoothing algorithm to forecast the revenue.
               </p>
               <p className="px-4 py-2 dark:text-white text-sm mb-10">
                 <b>Tech:</b> Codeigniter, MySQL, Bootstrap.
